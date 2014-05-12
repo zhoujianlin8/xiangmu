@@ -1,0 +1,7 @@
+{
+    "title": "zhoujianlin",
+    "daily":"http://g.assets.daily.taobao.net/tb/daogoubao/",
+    "local":"./build/",
+    "online":"http://g.tbcdn.cn/tb/daogoubao/",
+    "version":"0.1.0"
+}

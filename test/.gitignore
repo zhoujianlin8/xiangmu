@@ -1,0 +1,13 @@
+*.LICENSE
+*.dump
+*.iml
+*.exe
+.sass-cache
+node_modules
+tpslog
+.idea/**
+.idea
+*.ipr
+*.iws
+.tpl
+**/.idea/

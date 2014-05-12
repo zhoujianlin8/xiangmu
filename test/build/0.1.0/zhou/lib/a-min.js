@@ -1,0 +1,1 @@
+KISSY.add(function(){return{init:function(){}}},{requires:["node"]});

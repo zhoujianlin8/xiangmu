@@ -1,0 +1,1 @@
+!function(){var a=document.getElementById("init_script").src;a=a.split("/common")[0],KISSY.config({packages:[{combine:!1,name:"page",path:a,charset:"utf-8",ignorePackageNameInUri:!0}]})}();
